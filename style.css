@@ -1,3 +1,9 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  background-color: #f0f2f5;
+}
+
 #productTable {
   width: 100%;
   border-collapse: collapse;
@@ -54,4 +60,11 @@ button.delete-btn {
   padding: 8px;
   margin-bottom: 10px;
   box-sizing: border-box;
+}
+footer{
+   background-color:#F0F2F5;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
 }
