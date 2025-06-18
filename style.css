@@ -4,6 +4,12 @@ body {
   background-color: #f0f2f5;
 }
 
+form{
+  font-family: Arial, sans-serif;
+    padding: 20px;
+    background-color: #f0f2f5;
+}
+
 table{
  box-shadow: 1px 1px 1px black;
 }
