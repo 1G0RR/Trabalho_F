@@ -4,6 +4,10 @@ body {
   background-color: #f0f2f5;
 }
 
+table{
+ box-shadow: 1px 1px 1px black;
+}
+
 #productTable {
   width: 100%;
   border-collapse: collapse;
